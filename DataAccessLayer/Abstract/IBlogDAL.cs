@@ -1,0 +1,16 @@
+﻿using EntityLayer.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataAccessLayer.Abstract
+{
+    public interface IBlogDAL : IGenericDAL<Blog>
+    {
+        List<Blog> GetListWithCategoryDAL();
+
+        List<Blog> GetListWithCategoryByWriterDAL(int id);
+    }
+}

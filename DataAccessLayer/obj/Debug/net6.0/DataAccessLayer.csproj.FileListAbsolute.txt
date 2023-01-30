@@ -1,0 +1,306 @@
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\sercan.kurban\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\sercan.kurban\Desktop\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\100 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\110 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\119 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\120 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\125 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\130 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\135 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\137 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\138 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\140 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\145 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\source\repos\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\150 Video Mvc.Core_ProjeKamp150\Mvc.Core_ProjeKamp150\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
